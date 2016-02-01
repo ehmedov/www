@@ -1,0 +1,6 @@
+User-Agent: Yandex
+Disallow:
+Host: chaosroad.com
+
+User-Agent: *
+Disallow: 

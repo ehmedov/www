@@ -1,0 +1,48 @@
+body.intro {
+	margin: 0px;
+	padding: 0px;
+	background: #000000;
+}
+#back {
+	width: 1251px;
+	height: 600px;
+	background: url(img/new_index/bg.jpg) top left no-repeat;
+}
+#img {
+	position:absolute;
+	left: 50px;
+	top: 31px;
+}
+#logo {
+	position:absolute;
+	left: 500px;
+	top: 10px;
+}
+#enter {
+	position:absolute;
+	left: 722px;
+	top: 200px;
+	width: 150px;
+	height: 220px;
+}
+.inup {
+	BORDER: 1px double #E8C483;	
+	FONT-SIZE: 8pt;
+	COLOR: #E8C483;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: Black;
+}
+.btn {
+	BORDER: 1px double #E8C483;	
+	FONT-SIZE: 8pt;
+	COLOR: #E8C483;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #2B2B18;
+	cursor:hand;
+}
+HTML {font-family: verdana; font-size: 10pt}
+a:link {color: #FFFFD0;text-decoration: none;font-weight : bold;}
+a:visited {color : #FFFFD0;text-decoration : none;font-weight : bold;}
+a:active {color : #FFFFD0;font-weight : bold;}
+a:hover {color : #FFFFD0;text-decoration : underline;font-weight : bold;}
+.small { font-family: verdana; font-size: 11 px; color: #ffffff }

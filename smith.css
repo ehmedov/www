@@ -1,0 +1,490 @@
+body, p {
+        FONT-SIZE: 10pt;
+        margin: 0px 0px 0px 0px;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        color: #000000;
+
+}
+
+td {
+        font-size: 10pt;
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+}
+
+select, textarea, input {
+        border: solid 1pt #B0B0B0;
+        font-family: MS Sans Serif;
+        font-size: 10px;
+        color: #191970;
+        MARGIN-BOTTOM: 2px;
+        MARGIN-TOP: 1px;
+}
+a:link  {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #40404A;
+        cursor: pointer;
+}
+
+.tool_tip {
+ position: absolute;
+ visibility: hidden;
+ border: #000000 1px solid;
+ padding: 3px 3px 3px 3px;
+ background-color: #FCFCD3;
+}
+
+a:visited {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #40404A;
+        cursor: pointer;
+}
+a:hover {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #40404A;
+        cursor: pointer;
+}
+
+span {
+        font-size: 10pt;
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #40404A;
+}
+
+textarea {
+        border: 1px solid silver;
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+}
+H3 {
+        color: #8f0000;
+        FONT-FAMILY: Arial;
+        FONT-SIZE: 12pt;
+        font-weight: bold;
+        TEXT-ALIGN: center;
+        MARGIN-BOTTOM: 0px;
+        MARGIN-TOP: 0px;
+
+}
+H4 {
+        COLOR: #8f0000;
+        FONT-FAMILY: Arial;
+        FONT-SIZE: 11pt;
+        font-weight: bold;
+        MARGIN-BOTTOM: 5px;
+}
+H5 {
+        COLOR: #4f0000;
+        FONT-FAMILY: Arial;
+        FONT-SIZE: 11pt;
+        font-weight: bold;
+        MARGIN-BOTTOM: 0px;
+        MARGIN-TOP: 0px;
+}
+
+.small {
+        font-size: 10px;
+        font-weight: normal;
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+}
+a.small, a.small:visited, a.small:active, a.small:hover {
+        font-size: 12px;
+        font-weight: normal;
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+}
+.main_text {
+        font-weight: bold;
+        font-size: 10px;
+        text-decoration: none;
+        color:#f0f0f0;
+        cursor:pointer;
+}
+
+.menutop, a.menutop, a.menutop:visited, a.menutop:active {
+        font-weight: bold;
+        font-size: 8pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        color: #404040;
+}
+
+a.menutop:hover {
+        color: #76726b;
+        font-size: 8pt;
+}
+
+.g {
+        background-color: #212120;
+}
+
+.name {
+        font-weight: bold;
+        font-size: 12px;
+}
+
+.parametr_title {
+        font-weight: bold;
+        font-size: 11px;
+        color: #777773;
+}
+
+.prname {
+        padding-left: 4px;
+        font-size: 11px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.prvalue {
+        font-size: 11px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.mainmenu {
+        color: #23292C;
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: none;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-top-color: #969697;
+        border-right-color: #969697;
+        border-bottom-color: #000000;
+        border-left-color: #969697;
+        background-color: #BABABB;
+        cursor:pointer;
+}
+
+.maptext {
+        font-weight: bold;
+        font-size: 12px;
+        color: #000000;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.posit {
+        border-top-width: 1px;
+        border-right-width: 1px;
+        border-bottom-width: 1px;
+        border-left-width: 1px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-top-color: #FFFFFF;
+        border-right-color: #666666;
+        border-bottom-color: #666666;
+        border-left-color: #FFFFFF;
+        padding: 2px;
+}
+
+.td   {
+        font-weight: bold;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        color: #003388;
+        background-color: #CCCCCC;
+        cursor:pointer;
+        text-align: center;
+}
+
+.tdS  {
+        font-weight: bold;
+        color: #000000;
+        background-color: #CCCCCC;
+        text-align: center;
+}
+.tdOver {
+        font-weight: bold;
+        color: #003388;
+        background-color: #C0C0C0;
+        cursor:pointer;
+        text-align: center;
+}
+.tdSet  {
+        font-weight: bold;
+        text-align: center;
+}
+
+.menu {
+        background-color: #40404A;
+        border-color: #ffffff #202020 #202020 #ffffff;
+        border-style: solid;
+        border-width: 1px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        visibility: hidden;
+}
+
+a.menuItem, a.menuItem:visited {
+        border: 0px solid #000000;
+        color: #CC9966;
+        display: block;
+        font-family: MS Sans Serif, Arial, Tahoma,sans-serif;
+        font-size: 8pt;
+        font-weight: bold;
+        padding: 2px 12px 2px 8px;
+        text-decoration: none;
+        cursor: pointer;
+}
+
+a.menuItem:hover {
+        background-color: #DEDEDE;
+        color: #CC9966;
+        display: block;
+        font-family: MS Sans Serif, Arial, Tahoma,sans-serif;
+        font-size: 8pt;
+        font-weight: bold;
+        padding: 2px 12px 2px 8px;
+        text-decoration: none;
+        cursor: pointer;
+}
+
+
+.dtz {
+        display: none
+}
+
+.number {
+        font-size: 11pt;
+        font-weight: bold;
+        color: #6F0000
+}
+.p {
+        font-weight: bold;
+        color: red;
+        background-color: #FAE0E0
+}
+.date {
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        font-size: 10pt;
+        text-decoration:none;
+        font-weight: normal;
+        color: #007000
+}
+.date2 {
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        font-size: 10pt;
+        text-decoration:none;
+        font-weight: normal;
+        color: #007000;
+        background-color: #00FFAA
+}
+.sysdate {
+        font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        font-size: 10pt;
+        text-decoration:none;
+        font-weight: normal;
+        color: #B00000
+}
+
+a.f {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #ffffff;
+        cursor: pointer;
+        cursor: pointer;
+}
+a.f:visited {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #ffffff;
+        cursor: pointer;
+        cursor: pointer;
+}
+a.f2 {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #404040;
+        cursor: pointer;
+        cursor: pointer;
+}
+
+.alterClass {
+        background-color: #D4C59A;
+        border-color: #5D4D33 #5D4D33 #5D4D33 #5D4D33;
+        border-width: 1px;
+        FONT-SIZE: 8pt;
+        border-style: solid;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+}
+.alterMiniClass {
+        background-color: #D4C59A;
+        border-color: #D4C59A;
+        border-width: 1px;
+        FONT-SIZE: 8pt;
+        border-style: solid;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+}
+a:hover {
+        color: #665749
+}
+
+a.f:hover {
+        color: #ffffff
+}
+
+a.room {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #DFDFDF;
+        cursor: pointer;
+        cursor: pointer;
+}
+
+a.room:hover {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #CC9966;
+        cursor: pointer;
+}
+
+.btn {
+        border: 1px double #9a9996;
+        font-size: 10px;
+        color: #dfdfdf;
+        cursor: pointer;
+        background-color:#504F4C;
+}
+
+td.nav1{
+        font-family: verdana;
+        font-size: 10px;
+        color: white;
+        font-weight: bold;
+}
+
+td.nav2{
+        font-family: verdana;
+        font-size: 10px;
+        color: black;
+        font-weight: bold;
+}
+
+#hint1{
+        position: absolute;
+        visibility: hidden;
+}
+.hiddenbut{
+        BORDER-RIGHT: #DCD9C8 1px solid;
+        BORDER-TOP: #DCD9C8 1px solid;
+        BACKGROUND: #DCD9C8;
+        FONT: 12px Verdana; TEXT-TRANSFORM: none;
+        BORDER-LEFT: #DCD9C8 1px solid;
+        COLOR: #000000;
+        BORDER-BOTTOM: #DCD9C8 1px solid;
+        HEIGHT: 18px;
+}
+
+.nav3{
+        font-family: verdana;
+        font-size: 10px;
+        color: black;
+        font-weight: bold;
+}
+
+td.bank {
+        font-weight: bold;
+        font-family: verdana;
+        font-size: 10px;
+}
+td.bank2 {
+        font-family: verdana;
+        font-size: 10px;
+}
+td.bank3 {
+        font-family: verdana;
+        font-size: 10px;
+}
+
+td.shop {
+        font-family: verdana;
+        font-size: 10px;
+}
+
+table.shop {
+        font-family: verdana;
+        font-size: 10px;
+
+}
+
+input.chat {
+        height: 21px;
+        width: 100%;
+        border: 1px solid black;
+        background-image: url(file:i/chat/bg_inp.gif);
+        font-size: 10px;
+        font-family: Verdana
+}
+
+
+.private {
+        font-weight: bold;
+        color: red;
+        background-color: #FAE0E0;
+}
+
+td.bgf{
+        background-color: #D3D3D3;
+        border: 1px solid #B7B6B6;
+}
+tr.bgF {
+        background-color: #504F4C;
+        color: #FFFFFF;
+        font-family: Verdana, Arial;
+        font-size: 10px;
+}
+
+td.bgF2{
+        background-color: #CCC3B7;
+        border: 1px solid #665749;
+}
+.lteam {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #B06A00;
+        cursor: pointer;
+}
+.rteam {
+        FONT-SIZE: 10pt;
+        FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+        text-decoration: none;
+        font-weight: bold;
+        color: #6666CC;
+        cursor: pointer;
+}
+.intable
+{
+border-top: #808080 solid
+1px;
+border-left: #808080 solid 1px;
+border-right: #FFFFFF solid 1px;
+border-bottom: #FFFFFF
+solid 1px;
+}
+
+#hint4 {
+	VISIBILITY: hidden; WIDTH: 240px; POSITION: absolute;
+}

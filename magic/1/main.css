@@ -1,0 +1,129 @@
+
+.menu {
+  background-color: #d2d0d0;
+  border-color: #ffffff #626060 #626060 #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+a.menuItem {
+  border: 0px solid #000000;
+  color: #003388;
+  display: block;
+  font-family: MS Sans Serif, Arial, Tahoma,sans-serif;
+  font-size: 8pt;
+  font-weight: bold;
+  padding: 2px 12px 2px 8px;
+  text-decoration: none;
+}
+
+a.menuItem:hover {
+  background-color: #a2a2a2;
+  color: #0066FF;
+}
+
+a,span {
+  text-decoration: none;
+  FONT-WEIGHT: bold;
+  color: #003388;
+  cursor: hand;
+}
+.to			{ font-weight:bold; color: red;}
+.ahint		{ font-weight:bold; font-family: MS Sans Serif; text-decoration:none; color:#000080}
+
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+OL {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+UL {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+.bg {
+	BACKGROUND-COLOR: #446688
+}
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #8f0000; FONT-FAMILY: Arial; TEXT-ALIGN: center
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; MARGIN-BOTTOM: 5px; COLOR: #8f0000; FONT-FAMILY: Arial
+}
+H5 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 11pt; MARGIN-BOTTOM: 0px; COLOR: #4f0000; FONT-FAMILY: Arial
+}
+A {
+	FONT-WEIGHT: bold; COLOR: #003388; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #003388; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #6f0000
+}
+A:hover {
+	COLOR: #0066ff
+}
+.date {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #007000; FONT-FAMILY: Courier; TEXT-DECORATION: none
+}
+.date2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #007000; FONT-FAMILY: Courier; BACKGROUND-COLOR: #00ffaa; TEXT-DECORATION: none
+}
+.sysdate {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #b00000; FONT-FAMILY: Courier; TEXT-DECORATION: none
+}
+.private {
+	FONT-WEIGHT: bold; COLOR: red; BACKGROUND-COLOR: #fae0e0
+}
+.number {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #6f0000
+}
+.dsc {
+	FONT-WEIGHT: normal; COLOR: #606060
+}
+SELECT {
+	BORDER-RIGHT: #b0b0b0 1pt solid; BORDER-TOP: #b0b0b0 1pt solid; MARGIN-TOP: 1px; FONT-SIZE: 10px; MARGIN-BOTTOM: 2px; BORDER-LEFT: #b0b0b0 1pt solid; COLOR: #191970; BORDER-BOTTOM: #b0b0b0 1pt solid; FONT-FAMILY: MS Sans Serif
+}
+TEXTAREA {
+	BORDER-RIGHT: #b0b0b0 1pt solid; BORDER-TOP: #b0b0b0 1pt solid; MARGIN-TOP: 1px; FONT-SIZE: 10px; MARGIN-BOTTOM: 2px; BORDER-LEFT: #b0b0b0 1pt solid; COLOR: #191970; BORDER-BOTTOM: #b0b0b0 1pt solid; FONT-FAMILY: MS Sans Serif
+}
+INPUT {
+	BORDER-RIGHT: #b0b0b0 1pt solid; BORDER-TOP: #b0b0b0 1pt solid; MARGIN-TOP: 1px; FONT-SIZE: 10px; MARGIN-BOTTOM: 2px; BORDER-LEFT: #b0b0b0 1pt solid; COLOR: #191970; BORDER-BOTTOM: #b0b0b0 1pt solid; FONT-FAMILY: MS Sans Serif
+}
+.ahint {
+	FONT-SIZE: 8px; COLOR: #000080; FONT-FAMILY: MS Sans Serif; TEXT-DECORATION: none
+}
+#hint2 {
+	VISIBILITY: hidden; WIDTH: 140px; POSITION: absolute; BACKGROUND-COLOR: #fff6dd; layer-background-color: #FFF6DD
+}
+#hint3 {
+	VISIBILITY: hidden; WIDTH: 240px; POSITION: absolute; BACKGROUND-COLOR: #fff6dd; layer-background-color: #FFF6DD
+}
+.B1 {
+	FONT-WEIGHT: bold; COLOR: #6666cc
+}
+.B2 {
+	FONT-WEIGHT: bold; COLOR: #b06a00
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TABLE {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}

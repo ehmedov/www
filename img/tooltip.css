@@ -1,0 +1,21 @@
+.tooltip {
+   position: absolute;
+   display: none;
+   visibility: visible;
+   top: 0px;
+   left: 0px;
+   z-index: 101;
+}
+.blend_tooltip {
+  _filter: alpha(opacity=0); /* IE */
+  -moz-opacity: 0; /* mozilla */
+  -khtml-opacity: 0; /* KHTML Engine(Konquerror) */
+  opacity: 0; /* За*бали различия браузров? Используй CSS3! */
+}
+.tooltip_simple {
+   border: #000000 1px solid;
+   background-color: #FCFCD3;
+   color: black;
+   font-size: 12px;
+   padding: 3px 3px 3px 3px;
+}

@@ -1,0 +1,44 @@
+body{background:url(img/index_new/bg1.jpg) no-repeat 50% 0; color:#907e65;font-family: Verdana, Arial, Helvetica, sans-serif;font-size:14px;}
+
+
+a{font-size:18px;text-decoration:none;color:#907e65;margin:0 10px}
+a:hover{color: #6f5f4b}
+
+#container{width:960px;}
+
+#logo{padding-left:250px;}
+
+#buttonContainer{padding-left:180px;
+
+}
+.arkdiv{
+position:absolute;
+z-index:-2;
+}
+.ark{
+	 height: 100px;
+    left: 153px;
+    position: relative;
+    top: -13px;
+    width: 286px;
+	z-index:-1;
+}
+#footer{font-size:10px;color:#887e6d;}
+
+
+.btn {
+	border: 1px double #907e65;	
+	font-size: 14px;
+	color: #6f5f4b;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: transparent;
+	cursor:hand;
+}
+
+.inup {
+	border: 1px double #907e65;	
+	font-size: 12px;
+	color: #6f5f4b;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: transparent;
+}

@@ -1,0 +1,123 @@
+body 
+{
+	max-width:550px;
+	font-family:Verdana, Arial, sans-serif;
+	font-size:14px;
+	color:#FFF;
+	background-color:#303030;
+	margin:0 auto;
+}
+.content 
+{
+	background-color:#212121;
+	background-image:url(/img/icon/bg.png);
+	border-bottom:	#141111 solid 1px;
+	border-right:	#141111 solid 1px;
+	border-left:	#141111 solid 1px ;
+	border-top:		#141111 solid 1px ;
+}
+.menuList {
+margin:0;
+padding:0;
+}
+.menuList li {
+list-style:none;
+border-bottom:#5c5853 dotted 1px;
+margin:0;
+}
+
+.menuList li:hover {
+background-color:#323232;
+}
+
+.menuList li.original:hover {
+background-color:transparent;
+}
+
+.menuList li:last-child {
+border:0;
+}
+
+.menuList a {
+text-decoration:none;
+display:block;
+padding:5px;
+}
+
+.menuList a.inline {
+text-decoration:none;
+display:inline-block;
+padding:5px;
+}
+.menuList img {
+padding:0 5px 0 0;
+}
+h1 
+{
+	font-size:17px;
+	margin:0;
+	padding:4px 4px 4px 0;
+}
+span 
+{
+text-decoration:none;
+}
+.line {
+background-image:url(/img/icon/line.png);
+background-color:#3e3d36;
+background-repeat:repeat-x;
+background-position:bottom left;
+padding-top:5px;
+}
+
+.aheader {text-align:center;}
+.bheader {text-align:center;background-color:#141111;padding:3px;}
+.sep1 {height:1px; 	background:#ffffff;}
+.sep2 {height:1px; 	background:#332f28;}
+.sep3 {height:20px;	background:#99b3cc;}
+.inup 
+{
+	background-color:#707070;
+	color:#fff;
+	border:1px solid #C8C8C8;
+	margin:2px 0 3px;
+	padding:2px 1px 3px;
+	width:40%;
+}
+.yellow {
+color:#FC6;
+}
+.green {
+color:#3C3;
+}
+.red {
+color:#ff0000;
+}
+.button 
+{
+	background-color:#303030;
+	color:#fff;
+	border:1px solid #C8C8C8;
+	margin:2px 0 3px;
+	padding:2px 1px 3px;
+	width:20%;
+	display:inline-block;
+	cursor:pointer;
+}
+a{font-size:13px; color:#FC6; text-decoration:underline;}
+a:hover {font-size:13px; color:#FC6; text-decoration:underline;}
+
+
+.date 
+{
+	font-size: 13px; color: #007000; font-weight:bold;
+}
+.date2 {
+	font-size: 13px; color: #ffffff; background: #cd5c5c; font-weight:bold;
+}
+
+.p1 {font-weight: bold; font-size: 13px; color:#bb5500; text-decoration: none;}
+.p2 {font-weight: bold; font-size: 13px; color:#6666CC; text-decoration: none;}
+.hitted {font-weight: bold; font-size: 13px; color: #006699}
+.krit {font-weight: bold; font-size: 13px; color: #ff0000}
+.magic {font-weight: bold; font-size: 13px; color: #a52a2a}

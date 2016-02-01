@@ -1,0 +1,1 @@
+<script>document.location="forum.php"</script>

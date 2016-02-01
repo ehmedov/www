@@ -1,0 +1,16 @@
+<body bgcolor=#f5fff5>
+<table width="100%" height="100%" style="border:1px solid #BBB;">
+<tr><td>
+<script>
+function S(name)
+{
+    window.parent.document.getElementById('comments').value = window.parent.document.getElementById('comments').value + ':'+name+': ';
+    window.parent.document.getElementById('cp').style.visibility='hidden'; 
+}
+
+for (i=1;i<=18;i++)
+{
+	document.write("<IMG SRC='smiles/sm"+i+".gif' BORDER=0 style='cursor:hand' onclick='S(\"sm"+i+"\")'> ");
+}
+</script>
+</td></tr></table>

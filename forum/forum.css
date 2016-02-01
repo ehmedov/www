@@ -1,0 +1,20 @@
+.txt {FONT-SIZE: 13px; COLOR: #003300; FONT-FAMILY: Arial, Helvetica, sans-serif;}
+a {FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif;}
+
+.btn {
+	BORDER: 1px double #000;
+	FONT-SIZE: 8pt;
+	COLOR: #000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #FFF;
+	cursor:hand;
+}
+
+.inup {
+	BORDER: 1px double #000;
+	FONT-SIZE: 9pt;
+	COLOR: #000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #FFF;
+}
+select { font-family: Arial, Helvetica, sans-serif; font-size: 10px; border: #000000; border-style: double; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px} 

@@ -1,0 +1,36 @@
+BODY {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Verdana, Arial
+}
+BODY.e {
+	MARGIN: 0px; BACKGROUND-COLOR: #333333
+}
+TABLE.e {
+	BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; WIDTH: 760px; BORDER-BOTTOM: 1px solid; BACKGROUND-COLOR: #ccc3b7
+}
+TD.txt {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 30px; FONT-SIZE: 12px; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: center
+}
+P {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Verdana, Arial
+}
+TABLE.copy {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 10px; VERTICAL-ALIGN: text-top; BORDER-LEFT: 0px; WIDTH: 760px; COLOR: #ffffff; BORDER-BOTTOM: 0px; FONT-FAMILY: Verdana, Arial; TEXT-ALIGN: center
+}
+TD {
+	FONT-SIZE: 12px
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #8f0000; FONT-FAMILY: Arial; TEXT-ALIGN: center
+}
+A:link {
+	COLOR: #404040; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #404040; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #404040
+}
+A:hover {
+	COLOR: #666666; TEXT-DECORATION: underline
+}

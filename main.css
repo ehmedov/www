@@ -1,0 +1,253 @@
+
+table.around_shkala {width:300px; border-collapse:collapse; margin-right:20px;}
+.around_shkala  td { font-size:65%; font-weight:bold; color:#E8C483;}
+.around_shkala1  td { font-size:65%; font-weight:bold; color:#5f0606;}
+table.shkala {width:300px; height:24px; background:url('img/index/align/shkala.gif') center center no-repeat;padding:1px 4px 0 4px; }
+.shkala td {vertical-align:center;}
+td.shkala_red {background:url('img/index/align/yellow_s.gif') center center repeat-x; text-align:right; }
+td.shkala_blue {background:url('img/index/align/blue_s.gif') center center repeat-x; text-align:right; }
+
+.us2 { color: #514340; font-family: verdana; font-size: 13 px; text-decoration: none; font-weight: bold }
+.us2:hover {color: #BB7660;font-family: verdana; font-size: 13 px; text-decoration: none; font-weight: bold}
+
+A { color: #514340; font-family: verdana; font-size: 13 px; text-decoration: none; font-weight: bold }
+A:visited { color: #514340; font-family: verdana; font-size: 13 px; text-decoration: none; font-weight: bold }
+A:hover {color: #BB7660;font-family: verdana; font-size: 13 px; text-decoration: none; font-weight: bold}
+
+INPUT, TEXTAREA,  SELECT{
+	background-color : #fff8ea;border: 1px solid #392F2D; FONT-SIZE: 12px; COLOR: #333; FONT-FAMILY: verdana;MARGIN-TOP: 1px;MARGIN-BOTTOM: 2px;
+}
+.inup{
+	background-color : #fff8ea;border: 1px solid #392F2D; FONT-SIZE: 12px; COLOR: #333; FONT-FAMILY: verdana;MARGIN-TOP: 1px;MARGIN-BOTTOM: 2px;
+} 
+.l0{background-color:#faeede;}
+.l1{background-color:#fff8ea;}
+.l2{background-color:#CEBBAA;}
+.l3{background-color:#ac9886;}
+.nav { cursor:hand; cursor:pointer; COLOR: #ffffff; TEXT-DECORATION: none; font-weight:bold}
+
+.podskazka 
+{
+    background-color: #c5ced5;
+    background:url('img/design/bgr.jpg')
+    border: 1px solid #392F2D;
+}
+
+.fnew {
+    background-color: #504F4C;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+}
+.fold {
+    color: #FFFFFF;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.newbut {
+        border: 1px double #392F2D;
+        font-size: 12px;
+        color: #392F2D;
+        background-color:#CEBBAA;
+}
+.f:link, .f:hover,.f:visited {
+    font-size: 10pt;
+    font-family: Verdana, Arial, Helvetica, Tahoma, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.m {
+    background-color: #504F4C;
+    border: 1px solid #212120;
+    color: #FFFFFF;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+}
+
+
+.s 
+{
+    background-color: #CCC3B7;
+    border: 1px solid #665749;
+}
+
+.ispersonal {BACKGROUND-IMAGE:url('img/index/blinkblue.gif')}
+.glow_pink {BACKGROUND-IMAGE:url('img/index/blinkpink.gif')}
+
+.hitted {font-family: verdana; font-weight: bold; font-size: 10pt; color: #006699}
+.krit {font-family: verdana; font-weight: bold; font-size: 10pt; color: #FF0000}
+.magic {font-family: verdana; font-weight: bold; font-size: 10pt; color: brown}
+.menu {
+  background-color: #d2d0d0;
+  border-color: #ffffff #626060 #626060 #ffffff;
+  border-style: solid;
+  border-width: 1px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+}
+a.menuItem {
+  border: 0px solid #000000;
+  color: #003388;
+  display: block;
+  font-family: verdana;
+  font-size: 8pt;
+  font-weight: bold;
+  padding: 2px 12px 2px 8px;
+  text-decoration: none;
+}
+
+a.menuItem:hover {
+  background-color: #a2a2a2;
+  color: #0066FF;
+}
+
+span {
+  text-decoration: none;
+  FONT-WEIGHT: bold;
+  color: #003388;
+ }
+
+
+.to			{ font-weight:bold; color: red;}
+.ahint		{ font-weight:bold; font-family: verdana; text-decoration:none; color:#000080}
+
+BODY {
+	FONT-SIZE: 10pt; FONT-FAMILY:  Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY:  Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+OL {
+	FONT-SIZE: 10pt; FONT-FAMILY:  Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+UL {
+	FONT-SIZE: 10pt; FONT-FAMILY:  Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+LI {
+	FONT-SIZE: 10pt; FONT-FAMILY:  Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+P {
+	FONT-SIZE: 10pt; FONT-FAMILY:  Verdana, Arial, Helvetica, Tahoma, sans-serif
+}
+.bg {
+	BACKGROUND-COLOR: #446688
+}
+.text {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY:  verdana
+}
+H3{ COLOR: #8f0000;  FONT-FAMILY: Arial;  FONT-SIZE: 12pt;  FONT-WEIGHT: bold; TEXT-ALIGN: center }
+
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; MARGIN-BOTTOM: 5px; COLOR: #8f0000; FONT-FAMILY: verdana
+}
+H5 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 11pt; MARGIN-BOTTOM: 0px; COLOR: #4f0000; FONT-FAMILY: verdana
+}
+
+.date {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #007000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.date2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #007000; FONT-FAMILY: verdana; BACKGROUND-COLOR: #00ffaa; TEXT-DECORATION: none
+}
+.sysdate {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #b00000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.private {
+	FONT-WEIGHT: bold; COLOR: red; BACKGROUND-COLOR: #fae0e0
+}
+.number {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: #6f0000
+}
+.dsc {
+	FONT-WEIGHT: normal; COLOR: #606060
+}
+
+
+.ahint {
+	FONT-SIZE: 8px; COLOR: #000080; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+#hint2 {
+	VISIBILITY: hidden; WIDTH: 140px; POSITION: absolute; BACKGROUND-COLOR: #fff6dd; layer-background-color: #FFF6DD
+}
+#hint3 {
+	VISIBILITY: hidden; WIDTH: 240px; POSITION: absolute; BACKGROUND-COLOR: #fff6dd; layer-background-color: #FFF6DD
+}
+.B1 {
+	FONT-WEIGHT: bold; COLOR: #003388
+}
+.B2 {
+	FONT-WEIGHT: bold; COLOR: #121180
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TABLE {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+
+.in { font-family: arial; font-size: 13 px; text-decoration: none; color: #ffffff;font-weight: bold }
+.in:hover {color: #0066ff;font-family: arial; font-size: 13 px; text-decoration: none; font-weight: bold}
+
+
+
+#hint4 {
+	VISIBILITY: hidden; WIDTH: 240px; POSITION: absolute;
+}
+#city_info 
+{
+    VISIBILITY: hidden; POSITION: absolute;
+}
+
+.p1 {font-family: verdana; font-weight: bold; font-size: 10pt; color:#bb5500; text-decoration: none;}
+.p2 {font-family: verdana; font-weight: bold; font-size: 10pt; color:#6666CC; text-decoration: none;}
+
+.stable
+{
+	border-top: #A5A5A5 solid 1px;
+	border-left: #A5A5A5 solid 1px;
+	border-right: #EAEAEA solid 1px;
+	border-bottom: #EAEAEA solid 1px;
+}
+.menu {
+  z-index: 100;
+  background-color: #E4F2DF;
+  border-style: solid; border-width: 1px; border-color: #A0C3FC
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  visibility: hidden;
+  cursor:hand;
+}
+.menuItem {
+  color: #000000;
+  display: block;
+  font-family: Verdana;
+  font-size: 8pt;
+  font-weight: bold;
+  padding: 2px 12px 2px 8px;
+  text-decoration: none;
+  cursor:hand;
+}
+
+.menuItem2 {
+  color: #A0C3FC;
+  font-family: Verdana;
+  font-size: 8pt;
+  font-weight: bold;
+  padding: 2px 12px 2px 8px;
+  text-decoration: none;
+  cursor:hand;
+}
+.buts {
+        border: 1px double #9a9996;
+        font-size: 12px;
+        color: #dfdfdf;
+        background-color:#504F4C;
+}

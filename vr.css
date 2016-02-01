@@ -1,0 +1,240 @@
+/*  лассы дл€ инпутов */
+SELECT {BORDER-RIGHT: #9CA2AD 1pt solid; BORDER-TOP: #9CA2AD 1pt solid; BORDER-LEFT: #9CA2AD 1pt solid; BORDER-BOTTOM: #9CA2AD 1pt solid; MARGIN-TOP: 3px; FONT-SIZE: 13px; MARGIN-BOTTOM: 3px;  COLOR: #576682;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+TEXTAREA {BORDER-RIGHT: #9CA2AD 1pt solid; BORDER-TOP: #9CA2AD 1pt solid; BORDER-LEFT: #9CA2AD 1pt solid; BORDER-BOTTOM: #9CA2AD 1pt solid; MARGIN-TOP: 3px; FONT-SIZE: 13px; MARGIN-BOTTOM: 3px;  COLOR: #576682;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+INPUT {BORDER-RIGHT: #9CA2AD 1pt solid; BORDER-TOP: #9CA2AD 1pt solid; BORDER-LEFT: #9CA2AD 1pt solid; BORDER-BOTTOM: #9CA2AD 1pt solid; MARGIN-TOP: 3px; FONT-SIZE: 13px; MARGIN-BOTTOM: 3px;  COLOR: #576682;  FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif}
+
+.inup {
+	BORDER-RIGHT: 1px double #302F2A;
+	BORDER-TOP: 1px double #302F2A;
+	FONT-SIZE: 8pt;
+	BORDER-LEFT: 1px double #302F2A;
+	COLOR: White;
+	BORDER-BOTTOM: 1px double #302F2A;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: Black;
+}
+/* ¬ездесуща€ кнопка:) */
+.btn {
+        border: 1px double #9a9996;
+        font-size: 12px;
+        color: #dfdfdf;
+        background-color:#504F4C;
+}
+/* Ћинки */
+a.n, a.n:visited { text-decoration: none; color: #003388; }
+a.n:active{ color: #003388}
+a.n:hover{ color: #003388}
+
+a:link {
+	color: Red;
+	text-decoration: none;
+}
+
+a:visited {
+	color : #404040;
+	text-decoration : none;
+}
+
+a:active {
+	color : #404040;
+}
+
+a:hover {
+	color : #666666;
+	text-decoration : underline;
+}
+
+
+a.norm:link {
+	color : #CC9966;
+	text-decoration : none;
+	font-size: 11px;
+	font-weight : bold;
+}
+
+a.norm:visited {
+	color : #CC9966;
+	text-decoration : none;
+	font-size: 11px;
+	font-weight : bold;
+}
+
+a.norm:hover {
+	color : #ffffff;
+	text-decoration : underline;
+	font-size: 11px;
+	font-weight : bold;
+}
+/* Ѕоди */
+body, .regular, p, span, {
+	color: White;
+	font-family: Verdana, Arial;
+	font-size: 13px;
+}
+
+.small {
+	font-family : Verdana, Arial;
+	font-size : 10px;
+	color: #FFFFFF;
+}
+
+.smallb {
+	font-family : Verdana, Arial;
+	font-size : 10px;
+	color: #000000;
+}
+
+.medium {
+	font-family : Verdana, Arial;
+	font-size : 11px;
+}
+
+.large {
+	font-family : Verdana, Arial;
+	font-size : 14px;
+}
+
+
+.border {
+	background-color: #000000;
+}
+
+.d {
+	background-color: #DDDDDD;
+}
+
+.g {
+	background-color: #FFFFFF;
+}
+
+.l {
+	background-color: #F0F0F0;
+}
+
+.w {
+	background-color: #FFFFFF;
+}
+.p {
+	background-color: #996666;
+}
+.mb {
+	background-color: #336699;
+}
+.lb {
+	background-color: #99CCFF;
+}
+.66 {
+	background-color: #666666;
+	color: #666666;
+}
+.h3 {
+	font-family : Verdana, Arial;
+	font-size : 18px;
+	font-weight : bold;
+}
+
+hr.deepblue { color : #003366; height : 1px; border : 0px; border-bottom : 1px solid #003366; }
+
+td.sep { padding: 0px; background-color: #7691AB; }
+
+.txt_blue { color : #86AFD7; }
+.txt_mb { color : #3D7DB9; }
+
+.bg6 {
+	background-color: Black;
+}
+.bg5 {
+	background-color: Black;
+}
+.bg4 { background-color: #71685A; color: #FFFFFF; font-family: Verdana, Arial; font-size: 12px; }
+.bg3 { background-color: #88B7DC; }
+.bg2 { background-color: #3D6DAC; }
+.bg1 { background-color: #1F4B8C; }
+
+.date {
+	color: #990000;
+	font-family: Verdana, Arial;
+	font-size: 10px;
+}
+
+.error {
+	color: #990000;
+	font-family: Verdana, Arial;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.button { font-family : Verdana, Arial; font-size : 11px; font-weight : bold; font-variant : small-caps; padding-top: 3px; padding-bottom: 3px; }
+blockquote { font-family : Verdana, Arial; font-size : 10px; margin-left : 30px; margin-right : 30px; }
+
+/* не знаю, надо - нет?
+img.thumb {	border: 1px solid Black; }
+hr.dotted { color: #003366; height : 1px; border : 0px; }
+.subtitle {	color: #3D6DAC;	font-family: Verdana, Arial; font-size: 10px; }
+.tblHead { background-color: #AFD3E9; color: #3D6DAC; font-family: Verdana, Arial; font-size: 13px; font-weight: bold; padding: 3px; height : 25px; }
+table.lightBorder { border: solid 1px #7691AB; }
+ */
+ 
+/* «аголовки */
+H3 { COLOR: #8f0000;  FONT-FAMILY: Arial;  FONT-SIZE: 12pt;  FONT-WEIGHT: bold; TEXT-ALIGN: center}
+H4 { COLOR: #8f0000;  FONT-FAMILY: Arial;  FONT-SIZE: 11pt;  FONT-WEIGHT: bold; MARGIN-BOTTOM: 5px;}
+H5 { COLOR: #4f0000;  FONT-FAMILY: Arial;  FONT-SIZE: 11pt;  FONT-WEIGHT: bold; MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px;}
+
+/* Ёнциклопеди€.боди */
+body.e{
+	margin: 0px;
+	background-color: #333333;
+}
+/* Ёнциклопеди€.таблица */
+table.e{
+	border: 1px solid;
+	width: 760;
+	background-color: 612406;
+}
+
+/* Ёнциклопеди€.ссылки под логотипом. */
+table.el{
+	width:760;
+	border: 0px;
+	font-family : Verdana, Arial;
+	font-size : 10px;
+	color: #FFFFFF;
+}
+
+/* Ёнциклопеди€.TD верх. */
+td.etop{
+	background-image: url(http://img.sekretov.net/i/logom.jpg);
+	BACKGROUND-REPEAT: no-repeat;
+	width: 100%;
+	height: 96;
+	text-align: center;
+}
+/* Ёнциклопеди€.TD дл€ текста. */
+td.txt{
+	PADDING: 30px;
+	font-family : Verdana, Arial;
+	font-size : 12px;
+		text-align: center;
+}
+/* Ёнциклопеди€.ѕравила пользовани€ форумом. */
+p, li { font-size : 12px; font-weight : normal; line-height : 130%; margin-bottom : 10; text-align : justify; }
+ol.main { list-style-type : upper-roman; }
+li.main { font-weight : bold; margin-top : 20px; margin-bottom : 20px;}
+ul.sub { list-style-type : disc; }
+
+/* Ёнциклопеди€. опирайт. */
+table.copy{
+	font-family: Verdana, Arial;
+	font-size: 10px;
+	color: #FFFFFF;
+	vertical-align: text-top;
+	text-align: center;
+	width: 760;
+	border: 0;
+}
+td{
+	font-size:12;
+}

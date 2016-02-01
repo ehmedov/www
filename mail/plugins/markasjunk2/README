@@ -1,0 +1,44 @@
+Roundcube Webmail Mark as Junk 2
+================================
+This plugin adds "mark as spam" or "mark as not spam" button to the message menu.
+
+When not in the Junk mailbox:
+  Messages are moved into the Junk mailbox and marked as read
+
+When in the Junk mailbox:
+  The buttons are changed to "mark as not spam" or "this message is not spam"
+  If the message is a spam report with the original email attached then this is detached and saved in the Inbox, the spam report is deleted
+  If it is not a spam report then the message is simply moved to the Inbox
+
+This plugin also integrates with the ContextMenu plugin
+
+Install
+=======
+* Place this plugin folder into plugins directory of RoundCube
+* Add markasjunk2 to $rcmail_config['plugins'] in your RoundCube config
+NB: When downloading the plugin from GitHub you will need to create a directory called markasjunk2 and place the files in there, ignoring the root directory in the downloaded archive
+
+Config
+======
+The default config file is plugins/markasjunk2/config.inc.php.dist
+Rename this to plugins/markasjunk2/config.inc.php
+All config parameters are optional
+
+Spam learning commands
+======================
+
+Spamassassin:
+  '/usr/bin/sa-learn --spam --username=%u %f' or
+  '/usr/bin/sa-learn --spam --prefs-file=/var/mail/%d/%l/.spamassassin/user_prefs %f'
+
+
+Ham learning commands
+=====================
+
+Spamassassin:
+  '/usr/bin/sa-learn --ham --username=%u %f' or
+  '/usr/bin/sa-learn --ham --prefs-file=/var/mail/%d/%l/.spamassassin/user_prefs %f'
+
+Location of the button
+======================
+The spam/ham button is added to the toolbar when viewing a mailbox or message. If you would prefer that the button is added to the "mark message" menu on the toolbar when viewing a mail box then add $rcmail_config['markasjunk2_mb_toolbar'] = false; to your config

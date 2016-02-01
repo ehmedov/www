@@ -1,0 +1,165 @@
+.header {
+	FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: Tahoma
+}
+.usually {
+	FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: Tahoma
+}
+.usuallyb {
+	FONT-SIZE: 13px; COLOR: #354463; FONT-FAMILY: Tahoma
+}
+.usually14 {
+	FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: Tahoma
+}
+.small {
+	FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: Tahoma
+}
+A {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: white; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #dcdcdc
+}
+.us {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #d50000; FONT-FAMILY: vedana; TEXT-DECORATION: none
+}
+.us:hover {
+	COLOR: red
+}
+.us2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.us2:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #8a8a8a; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.us3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #0000ee; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.us3:hover {
+	COLOR: #000099
+}
+.WHO {
+	FONT-SIZE: 12px; font-color: #354463
+}
+A {
+	COLOR: #ffffff
+}
+A:hover {
+	COLOR: #dcdcdc
+}
+HTML {
+	FONT-SIZE: 10pt; FONT-FAMILY: verdana
+}
+TD {
+	FONT-SIZE: 10pt; FONT-FAMILY: verdana
+}
+.inv {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-SIZE: 10pt; BORDER-LEFT: #000000 1pt solid; BORDER-BOTTOM: #000000 1pt solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #dcdcdc; font-color: #354463
+}
+.new {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #000000 1pt solid; BORDER-BOTTOM: #000000 1pt solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffffff; font-color: #354463
+}
+.but {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #000000 1pt solid; COLOR: #000000; BORDER-BOTTOM: #000000 1pt solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #cccccc
+}
+.b {
+	BORDER-RIGHT: #000000 1pt solid; BORDER-TOP: #000000 1pt solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #000000 1pt solid; COLOR: #000000; BORDER-BOTTOM: #000000 1pt solid; FONT-FAMILY: verdana; BACKGROUND-COLOR: #cccccc
+}
+.ad {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.date {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #0080c0; FONT-FAMILY: verdana
+}
+.date2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #009900; FONT-FAMILY: verdana; BACKGROUND-COLOR: #00ffaa
+}
+.private {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #990000; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ff9999
+}
+.nick {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.nick:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #999999; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.msg {
+	FONT-SIZE: 10pt
+}
+.sys {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #990000; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ff9999
+}
+.sys2 {
+	FONT-SIZE: 10pt; COLOR: #cc0000; FONT-FAMILY: verdana
+}
+.p1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #991111; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.p2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #121180; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.t {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #552255; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+.hitted {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #0080c0; FONT-FAMILY: verdana
+}
+.krit {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: verdana
+}
+.magic {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #008000; FONT-FAMILY: verdana
+}
+.navik {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: verdana
+}
+.sysMain {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #990000; FONT-FAMILY: verdana
+}
+.norm {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.small {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: Tahoma
+}
+.err {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #990000; FONT-FAMILY: Tahoma
+}
+.err_file {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: rgb(171,128,63); FONT-FAMILY: Tahoma
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000111; FONT-FAMILY: Tahoma
+}
+.tab {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.but {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 13px; BORDER-LEFT: #000000 1px solid; COLOR: #112255; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: #dddddd
+}
+.field {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 13px; BORDER-LEFT: #000000 1px solid; COLOR: #112255; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Tahoma; BACKGROUND-COLOR: rgb(238,238,238)
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.efir {
+	BORDER-RIGHT: #817a63 1px double; BORDER-TOP: #817a63 1px double; FONT-SIZE: 8pt; BORDER-LEFT: #817a63 1px double; COLOR: #dfddd3; BORDER-BOTTOM: #817a63 1px double; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #151616
+}
+.yek {
+	BORDER-RIGHT: #817a63 1px double; BORDER-TOP: #817a63 1px double; FONT-SIZE: 7.5pt; BORDER-LEFT: #817a63 1px double; COLOR: #dfddd3; BORDER-BOTTOM: #817a63 1px double; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #2b2b18
+}
+.hint {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 3px; BACKGROUND: #ffffe1; PADDING-BOTTOM: 2px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: Verdana
+}
+#hint1 {
+	VISIBILITY: hidden; POSITION: absolute
+}
+.inup {
+	BORDER-RIGHT: #302f2a 1px double; BORDER-TOP: #302f2a 1px double; FONT-SIZE: 8pt; BORDER-LEFT: #302f2a 1px double; COLOR: #000000; BORDER-BOTTOM: #302f2a 1px double; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+newa {
+	BORDER-RIGHT: #b0b0b0 1pt solid; BORDER-TOP: #b0b0b0 1pt solid; MARGIN-TOP: 1px; FONT-SIZE: 10px; MARGIN-BOTTOM: 2px; BORDER-LEFT: #b0b0b0 1pt solid; COLOR: #191970; BORDER-BOTTOM: #b0b0b0 1pt solid; FONT-FAMILY: MS Sans Serif
+}
